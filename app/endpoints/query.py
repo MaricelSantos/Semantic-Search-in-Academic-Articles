@@ -19,7 +19,7 @@ async def search_embeddings_endpoint(query: str):
     -------
     List
         Dict of the 3 most similar documents.
-        Content dict: ID, title, authot, abstract, similarity_score
+        Content dict: ID, title, author, doi, abstract, similarity_score
                 
 
     Raises
