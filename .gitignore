@@ -1,0 +1,3 @@
+config/.env
+db/.env
+db/notebook-test.ipynb
